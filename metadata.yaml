@@ -1,0 +1,49 @@
+_repo: Baum-s-Complete-Stamp-Dealers-Directory-Containing-a-Complete-List-of-All-Dealers-in-the-Unit__61203
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Norris, William
+    gutenberg_agent_id: '51302'
+    url: http://www.gutenberg.org/2009/agents/51302
+  - agent_name: Baum, Henry Clay
+    birthdate: 1859
+    deathdate: 1916
+    gutenberg_agent_id: '51306'
+    url: http://www.gutenberg.org/2009/agents/51306
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Baum, Lyman Frank
+    - Cooke, John Estes
+    - Staunton, Schuyler
+    - Fitzgerald, Hugh
+    - Van Dyne, Edith
+    - Fitzgerald, Capt. Hugh
+    - Metcalf, Suzanne
+    - Akers, Floyd
+    - Bancroft, Laura
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: 'L. Frank Baum and "Baum''s Complete Stamp Dealers Directory" at Wikipedia:
+  https://en.wikipedia.org/wiki/L._Frank_Baum#Childhood_and_early_life'
+gutenberg_issued: '2020-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61203'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Postage stamps -- United States -- Directories'
+- !lcc 'HE'
+- !lcsh 'Stamp collecting -- Directories'
+- GITenberg
+title: "Baum's Complete Stamp Dealers Directory\r\nContaining a Complete List of All\
+  \ Dealers in the United States, Together with the Principal Ones of Europe, and\
+  \ a List of Philatelic Publications"
+url: http://www.gutenberg.org/ebooks/61203
